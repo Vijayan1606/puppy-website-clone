@@ -14,7 +14,6 @@ A premium, fully animated React website for **TeddyPups U.A.E.** — a Dubai-bas
 - [Project Structure](#-project-structure)
 - [Tech Stack](#-tech-stack)
 - [Getting Started](#-getting-started)
-- [Environment Variables](#-environment-variables)
 - [Available Scripts](#-available-scripts)
 - [Key Components](#-key-components)
 - [Data Layer](#-data-layer)
